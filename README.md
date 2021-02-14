@@ -13,7 +13,7 @@
 
 ## Overview
 
-This mod adds an item (Radar) that can be crafted and used to enabled the usage of the radar mode of the minimap.
+A simple mod that enables the use of the minimap radar with a craftable item.
 
 ![Overview Image](images/overview.png?raw=true "Overview Image")
 
@@ -43,7 +43,7 @@ The crafting recipe for the radar changes depending on which mods are installed.
 
 ## Installation
 
-Download the [master branch](https://github.com/OgelGames/digicontrol/archive/master.zip) or the [latest release](https://github.com/OgelGames/digicontrol/releases), or clone the repository using Git or the [GitHub Desktop](https://desktop.github.com/) app, and follow [these instructions](https://dev.minetest.net/Installing_Mods).
+Download the [master branch](https://github.com/OgelGames/minimap_radar/archive/master.zip) or the [latest release](https://github.com/OgelGames/minimap_radar/releases), or clone the repository using Git or the [GitHub Desktop](https://desktop.github.com/) app, and follow [the usual installation steps](https://dev.minetest.net/Installing_Mods).
 
 ## License
 
