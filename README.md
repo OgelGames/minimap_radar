@@ -2,6 +2,7 @@
 
 [![luacheck](https://github.com/OgelGames/minimap_radar/workflows/luacheck/badge.svg)](https://github.com/OgelGames/minimap_radar/actions)
 [![License](https://img.shields.io/badge/License-MIT%20and%20CC%20BY--SA%204.0-green.svg)](LICENSE.md)
+[![Minetest](https://img.shields.io/badge/Minetest-5.3+-blue.svg)](https://www.minetest.net)
 
 ## Table of Contents
 
