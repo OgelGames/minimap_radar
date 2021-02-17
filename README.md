@@ -3,6 +3,7 @@
 [![luacheck](https://github.com/OgelGames/minimap_radar/workflows/luacheck/badge.svg)](https://github.com/OgelGames/minimap_radar/actions)
 [![License](https://img.shields.io/badge/License-MIT%20and%20CC%20BY--SA%204.0-green.svg)](LICENSE.md)
 [![Minetest](https://img.shields.io/badge/Minetest-5.3+-blue.svg)](https://www.minetest.net)
+[![ContentDB](https://content.minetest.net/packages/OgelGames/minimap_radar/shields/downloads/)](https://content.minetest.net/packages/OgelGames/minimap_radar/)
 
 ## Table of Contents
 
@@ -14,13 +15,13 @@
 
 ## Overview
 
-A simple mod that enables the use of the minimap radar with a craftable item.
+A simple mod that adds a single craftable item, that when placed in a player's inventory, enables the use of the radar mode of the minimap.
 
 ![Overview Image](images/overview.png?raw=true "Overview Image")
 
 ## Crafting
 
-The crafting recipe for the radar changes depending on which mods are installed.
+The crafting recipe for the Radar item changes depending on which mods are installed:
 
 **Minetest Game only:**
 
