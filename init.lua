@@ -2,6 +2,9 @@
 -- Override minimap update function
 
 function map.update_hud_flags(player)
+	if not player or player.is_fake_player then
+		return  -- Can't be used by a fake player
+	end
 	local creative_enabled = minetest.is_creative_enabled(player:get_player_name())
 	local inv = player:get_inventory()
 	local has_map = inv:contains_item("main", "map:mapping_kit")
