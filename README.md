@@ -54,7 +54,7 @@ The crafting recipe for the Radar item changes depending on which mods are insta
 
 ## Installation
 
-Download the [master branch](https://github.com/OgelGames/minimap_radar/archive/master.zip) or the [latest release](https://github.com/OgelGames/minimap_radar/releases), and follow [the usual installation steps](https://dev.minetest.net/Installing_Mods).
+Download the [master branch](https://github.com/OgelGames/minimap_radar/archive/master.zip) or the [latest release](https://github.com/OgelGames/minimap_radar/releases), and follow [the usual installation steps](https://wiki.minetest.net/Installing_Mods).
 
 Alternatively, you can download and install the mod from [ContentDB](https://content.minetest.net/packages/OgelGames/minimap_radar) or the online content tab in Minetest.
 
